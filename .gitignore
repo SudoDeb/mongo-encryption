@@ -12,6 +12,11 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+package-lock.json
+#for local master key
+*-key.txt
+#for mongo encryption library
+*.dylib
 # OS
 .DS_Store
 
