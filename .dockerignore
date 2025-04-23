@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+master-key.txt
+# mongo_crypt_v1.so
+mongo_crypt_v1.dylib
